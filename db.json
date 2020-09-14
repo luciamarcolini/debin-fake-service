@@ -1,16 +1,8 @@
 {
-  "posts": [
+  "clientcredential": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "StatusCode":200,
+      "Response":"{\"token\":\"XubIjuLHeLTqhxeglMTz0PY7CVoZGyaPwOH2f6M08AlMM6geqg1igwF1QsOWNmNN\"}"
     }
   ],
   "comments": [
